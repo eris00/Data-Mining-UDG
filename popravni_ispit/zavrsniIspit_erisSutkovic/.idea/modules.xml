@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Documents/Development/Data Mining UDG/.idea/Data Mining UDG.iml" filepath="$USER_HOME$/Documents/Development/Data Mining UDG/.idea/Data Mining UDG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Ivan_Novakovic_popravni/.idea/Ivan_Novakovic_popravni.iml" filepath="$PROJECT_DIR$/../../Ivan_Novakovic_popravni/.idea/Ivan_Novakovic_popravni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../examExercise/.idea/examExercise.iml" filepath="$PROJECT_DIR$/../../examExercise/.idea/examExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zavrsniIspit_erisSutkovic.iml" filepath="$PROJECT_DIR$/.idea/zavrsniIspit_erisSutkovic.iml" />
+    </modules>
+  </component>
+</project>
